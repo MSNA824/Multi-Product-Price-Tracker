@@ -11,7 +11,8 @@ This project automates tracking the prices of multiple products across various o
 - **Data Visualization**: Generate insightful visualizations to track price movements.
 - **Notifications**: Receive automated email alerts when prices reach desired levels.
 ## 📦 Products Used for Scraping:
-The following five products are used as examples in this scraper:
+
+The following five products are used as in this scraper:
 
 Apple iPhone 15 Pro
 
